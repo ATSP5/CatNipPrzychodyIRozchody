@@ -27,3 +27,13 @@ breakpoints.json
 
 # Half-written saves left by an interrupted write
 .*.tmp
+
+# Local settings and secrets
+.env
+.env.*
+
+# IDE / OS clutter
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
